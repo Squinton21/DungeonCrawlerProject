@@ -1416,3 +1416,35 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Total Egg Amount
 [2021.08.17-04.07.34:092][343]AssetCheck: New page: Asset Save: multiple assets
 [2021.08.17-04.07.34:092][343]LogContentValidation: Display: Validating World /Game/__MyContent/Levels/Level2.Level2
 [2021.08.17-04.07.34:092][343]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/__MyContent/Levels/Level2_BuiltData.Level2_BuiltData
+[2021.08.17-04.10.21:061][177]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.10.30:101][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level2" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.17-04.10.30:118][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.17-04.10.30:154][210]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level2CCA7856F4F842AF9383A3D97FBCAE644.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2.umap'
+[2021.08.17-04.10.30:163][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level2_BuiltData" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2_BuiltData.uasset" SILENT=true
+[2021.08.17-04.10.30:174][210]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level2_BuiltData5321D1674879C0B27059B780FC7CBE72.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2_BuiltData.uasset'
+[2021.08.17-04.10.30:183][210]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.17-04.10.30:183][210]LogContentValidation: Display: Validating World /Game/__MyContent/Levels/Level2.Level2
+[2021.08.17-04.10.30:183][210]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/__MyContent/Levels/Level2_BuiltData.Level2_BuiltData
+[2021.08.17-04.10.44:317][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.08.17-04.10.44:354][717]LogAssetEditorSubsystem: Opening Asset editor for World /Game/__MyContent/Levels/Level1.Level1
+[2021.08.17-04.10.44:354][717]Cmd: MAP LOAD FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.17-04.10.44:354][717]LightingResults: New page: Lighting Build
+[2021.08.17-04.10.44:354][717]LoadErrors: New page: Loading map: Level1.umap
+[2021.08.17-04.10.44:383][717]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-04.10.44:383][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-04.10.44:383][717]MapCheck: New page: Map Check
+[2021.08.17-04.10.44:383][717]LightingResults: New page: Lighting Build
+[2021.08.17-04.10.44:387][717]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-04.10.44:390][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.17-04.10.44:390][717]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.08.17-04.10.44:396][717]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.17-04.10.44:396][717]LogAIModule: Creating AISystem for world Level1
+[2021.08.17-04.10.44:403][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.17-04.10.44:409][717]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.17-04.10.44:409][717]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2021.08.17-04.10.44:410][717]LogFileHelpers: Loading map 'Level1' took 0.055
+[2021.08.17-04.10.45:837][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level1" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.17-04.10.45:842][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.08.17-04.10.45:888][872]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level14E0E5A7E48341A8498F4F0BE73C872CA.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level1.umap'
+[2021.08.17-04.10.45:903][872]AssetCheck: New page: Asset Save: Level1
+[2021.08.17-04.10.45:903][872]LogContentValidation: Display: Validating World /Game/__MyContent/Levels/Level1.Level1
