@@ -1482,3 +1482,182 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Total Egg Amount
 [2021.08.17-04.17.39:531][556]AssetCheck: New page: Asset Save: multiple assets
 [2021.08.17-04.17.39:531][556]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/__MyContent/Levels/Level2_BuiltData.Level2_BuiltData
 [2021.08.17-04.17.39:531][556]LogContentValidation: Display: Validating World /Game/__MyContent/Levels/Level2.Level2
+[2021.08.17-04.24.08:636][553]LogSlate: Window 'New Level' being destroyed
+[2021.08.17-04.24.08:642][553]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.17-04.24.08:653][553]LightingResults: New page: Lighting Build
+[2021.08.17-04.24.08:653][553]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.08.17-04.24.08:693][553]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-04.24.08:693][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-04.24.08:694][553]MapCheck: New page: Map Check
+[2021.08.17-04.24.08:694][553]LightingResults: New page: Lighting Build
+[2021.08.17-04.24.08:708][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-04.24.08:713][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.08.17-04.24.08:726][553]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.08.17-04.24.08:727][553]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_6'.
+[2021.08.17-04.24.08:728][553]LogAIModule: Creating AISystem for world Untitled_6
+[2021.08.17-04.24.08:730][553]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.17-04.24.08:736][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.17-04.24.08:745][553]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.17-04.24.08:745][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2021.08.17-04.24.08:745][553]LogFileHelpers: Loading map 'Template_Default' took 0.103
+[2021.08.17-04.24.19:382][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.17-04.24.26:134][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.17-04.24.26:513][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.17-04.24.26:869][669]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.08.17-04.24.30:668][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.17-04.24.31:014][ 45]Cmd: DELETE
+[2021.08.17-04.24.31:014][ 45]Cmd: ACTOR DELETE
+[2021.08.17-04.24.31:015][ 45]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.17-04.24.31:020][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.17-04.24.31:022][ 45]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.08.17-04.24.32:051][143]LogActorFactory: Actor Factory created TemplateFloor
+[2021.08.17-04.24.34:016][375]LogActorFactory: Actor Factory created TemplateFloor
+[2021.08.17-04.24.50:720][322]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.08.17-04.25.55:218][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.26.07:278][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.26.18:806][784]LogSlate: Window 'Save Level As' being destroyed
+[2021.08.17-04.26.18:824][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level3" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.17-04.26.18:829][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.08.17-04.26.18:838][784]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level3B18D03EE47965D5392E666A72545F7B7.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3.umap'
+[2021.08.17-04.26.18:847][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level3_BuiltData" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3_BuiltData.uasset" SILENT=true
+[2021.08.17-04.26.18:868][784]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level3_BuiltData4B1B17EA436C94B21A27FD8AC3F6FC4E.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3_BuiltData.uasset'
+[2021.08.17-04.26.18:873][784]LogFileHelpers: Saving map 'Level3' took 0.061
+[2021.08.17-04.26.18:873][784]Cmd: MAP LOAD FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.17-04.26.18:887][784]LightingResults: New page: Lighting Build
+[2021.08.17-04.26.18:887][784]LoadErrors: New page: Loading map: Level3.umap
+[2021.08.17-04.26.18:888][784]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-04.26.18:888][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-04.26.18:888][784]MapCheck: New page: Map Check
+[2021.08.17-04.26.18:888][784]LightingResults: New page: Lighting Build
+[2021.08.17-04.26.18:892][784]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-04.26.18:894][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.08.17-04.26.18:898][784]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2021.08.17-04.26.18:899][784]LogAIModule: Creating AISystem for world Level3
+[2021.08.17-04.26.18:901][784]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.17-04.26.18:907][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.17-04.26.18:918][784]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.17-04.26.18:918][784]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2021.08.17-04.26.18:918][784]LogFileHelpers: Loading map 'Level3' took 0.045
+[2021.08.17-04.26.18:922][784]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.17-04.26.18:922][784]LogContentValidation: Display: Validating World /Game/__MyContent/Levels/Level3.Level3
+[2021.08.17-04.26.18:922][784]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/__MyContent/Levels/Level3_BuiltData.Level3_BuiltData
+[2021.08.17-04.26.23:864][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.17-04.26.23:865][336]Cmd: MAP LOAD FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.17-04.26.23:876][336]LightingResults: New page: Lighting Build
+[2021.08.17-04.26.23:876][336]LoadErrors: New page: Loading map: Level2.umap
+[2021.08.17-04.26.23:903][336]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-04.26.23:903][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-04.26.23:903][336]MapCheck: New page: Map Check
+[2021.08.17-04.26.23:903][336]LightingResults: New page: Lighting Build
+[2021.08.17-04.26.23:907][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-04.26.23:908][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.08.17-04.26.23:924][336]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2021.08.17-04.26.23:925][336]LogAIModule: Creating AISystem for world Level2
+[2021.08.17-04.26.23:928][336]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.17-04.26.23:936][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.17-04.26.23:947][336]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.17-04.26.23:947][336]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2021.08.17-04.26.23:947][336]LogFileHelpers: Loading map 'Level2' took 0.082
+[2021.08.17-04.26.23:947][336]LogSlate: Window 'Open Level' being destroyed
+[2021.08.17-04.26.26:716][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor20)
+[2021.08.17-04.26.29:385][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor24)
+[2021.08.17-04.26.31:171][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor20)
+[2021.08.17-04.26.32:941][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor24)
+[2021.08.17-04.26.34:693][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor23)
+[2021.08.17-04.26.47:082][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.08.17-04.26.47:084][801]Cmd: MAP LOAD FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.17-04.26.47:093][801]LightingResults: New page: Lighting Build
+[2021.08.17-04.26.47:093][801]LoadErrors: New page: Loading map: Level3.umap
+[2021.08.17-04.26.47:133][801]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-04.26.47:133][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-04.26.47:133][801]MapCheck: New page: Map Check
+[2021.08.17-04.26.47:133][801]LightingResults: New page: Lighting Build
+[2021.08.17-04.26.47:151][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-04.26.47:154][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.08.17-04.26.47:164][801]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2021.08.17-04.26.47:164][801]LogAIModule: Creating AISystem for world Level3
+[2021.08.17-04.26.47:166][801]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.17-04.26.47:172][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.17-04.26.47:183][801]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.17-04.26.47:184][801]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.08.17-04.26.47:184][801]LogFileHelpers: Loading map 'Level3' took 0.101
+[2021.08.17-04.26.47:184][801]LogSlate: Window 'Open Level' being destroyed
+[2021.08.17-04.26.48:265][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.26.54:130][577]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.27.04:327][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.28.11:697][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.28.33:138][651]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.28.37:943][201]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.17-04.28.39:532][391]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.17-04.28.41:889][673]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.17-04.28.43:085][816]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.17-04.28.44:408][974]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.17-04.28.45:521][107]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.17-04.28.47:019][286]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.17-04.28.48:374][433]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.17-04.28.50:823][726]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.08.17-04.29.11:956][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor2)
+[2021.08.17-04.29.37:558][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.29.40:018][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor2)
+[2021.08.17-04.29.42:077][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor3)
+[2021.08.17-04.30.33:019][721]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.30.33:635][784]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.30.48:296][527]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.30.49:158][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor2)
+[2021.08.17-04.31.10:525][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor4)
+[2021.08.17-04.31.26:652][ 10]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.31.28:280][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor3)
+[2021.08.17-04.31.51:505][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.32.00:777][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor5)
+[2021.08.17-04.32.13:110][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor6)
+[2021.08.17-04.32.27:886][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor5)
+[2021.08.17-04.32.46:732][406]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.32.55:065][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor3)
+[2021.08.17-04.33.04:130][420]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.33.15:482][765]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.33.29:380][427]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.33.30:228][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor2)
+[2021.08.17-04.33.44:585][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor9)
+[2021.08.17-04.34.26:519][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor8)
+[2021.08.17-04.34.58:239][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor6)
+[2021.08.17-04.35.24:196][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.35.26:981][307]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.35.30:161][686]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.35.31:618][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.35.44:816][419]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.35.45:728][526]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.35.56:868][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.35.59:335][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor6)
+[2021.08.17-04.36.14:518][926]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.36.18:414][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor10)
+[2021.08.17-04.36.36:154][494]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.36.59:423][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor14)
+[2021.08.17-04.37.12:956][842]Cmd: TRANSACTION UNDO
+[2021.08.17-04.37.12:956][842]LogEditorTransaction: Undo Move Actors
+[2021.08.17-04.37.17:447][306]Cmd: TRANSACTION UNDO
+[2021.08.17-04.37.17:447][306]LogEditorTransaction: Undo Move Actors
+[2021.08.17-04.37.32:549][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.37.46:875][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor14)
+[2021.08.17-04.38.06:405][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.38.06:793][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.08.17-04.38.11:363][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.38.35:446][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor9)
+[2021.08.17-04.39.08:323][432]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.39.08:804][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor2)
+[2021.08.17-04.39.10:153][645]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TemplateFloor2)
+[2021.08.17-04.39.15:470][217]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.39.25:603][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor14)
+[2021.08.17-04.39.34:226][439]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.39.34:946][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.39.46:678][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor19)
+[2021.08.17-04.40.17:107][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.40.17:587][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor4)
+[2021.08.17-04.40.24:713][326]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.08.17-04.40.34:292][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level3" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.17-04.40.34:302][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.08.17-04.40.34:352][469]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level339DF3BCE40B130445F78599343E24E00.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3.umap'
+[2021.08.17-04.40.34:373][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level3_BuiltData" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3_BuiltData.uasset" SILENT=true
+[2021.08.17-04.40.34:396][469]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level3_BuiltData6FF37EEA4559815D29A48CBF3FAEB4A7.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level3_BuiltData.uasset'
+[2021.08.17-04.40.34:408][469]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.17-04.40.34:408][469]LogContentValidation: Display: Validating World /Game/__MyContent/Levels/Level3.Level3
+[2021.08.17-04.40.34:408][469]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/__MyContent/Levels/Level3_BuiltData.Level3_BuiltData
