@@ -1448,3 +1448,37 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Total Egg Amount
 [2021.08.17-04.10.45:888][872]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level14E0E5A7E48341A8498F4F0BE73C872CA.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level1.umap'
 [2021.08.17-04.10.45:903][872]AssetCheck: New page: Asset Save: Level1
 [2021.08.17-04.10.45:903][872]LogContentValidation: Display: Validating World /Game/__MyContent/Levels/Level1.Level1
+[2021.08.17-04.15.52:797][909]LogDirectoryWatcher: Display: A directory notification failed for 'D:/UE4/DungeonCrawler/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.08.17-04.15.52:797][909]LogDirectoryWatcher: Display: A directory notification failed for 'D:/UE4/DungeonCrawler/Content/Developers/TomWinton/Collections/' because it could not be accessed. Aborting watch request...
+[2021.08.17-04.15.52:797][909]LogDirectoryWatcher: Display: A directory notification failed for 'D:/UE4/DungeonCrawler/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.08.17-04.17.37:147][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level1" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.17-04.17.37:152][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.17-04.17.37:208][316]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level1C234F2384060106A3D2508B738A372E8.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level1.umap'
+[2021.08.17-04.17.37:225][316]AssetCheck: New page: Asset Save: Level1
+[2021.08.17-04.17.37:225][316]LogContentValidation: Display: Validating World /Game/__MyContent/Levels/Level1.Level1
+[2021.08.17-04.17.38:417][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.08.17-04.17.38:451][452]LogAssetEditorSubsystem: Opening Asset editor for World /Game/__MyContent/Levels/Level2.Level2
+[2021.08.17-04.17.38:451][452]Cmd: MAP LOAD FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.17-04.17.38:451][452]LightingResults: New page: Lighting Build
+[2021.08.17-04.17.38:451][452]LoadErrors: New page: Loading map: Level2.umap
+[2021.08.17-04.17.38:452][452]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-04.17.38:452][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-04.17.38:452][452]MapCheck: New page: Map Check
+[2021.08.17-04.17.38:452][452]LightingResults: New page: Lighting Build
+[2021.08.17-04.17.38:457][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-04.17.38:461][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.17-04.17.38:461][452]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2021.08.17-04.17.38:465][452]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.17-04.17.38:465][452]LogAIModule: Creating AISystem for world Level2
+[2021.08.17-04.17.38:473][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.17-04.17.38:479][452]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.17-04.17.38:479][452]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.08.17-04.17.38:479][452]LogFileHelpers: Loading map 'Level2' took 0.029
+[2021.08.17-04.17.39:462][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level2" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.17-04.17.39:467][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.08.17-04.17.39:499][556]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level2B7B630D74F3F3097356DF9AB0B2B6855.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2.umap'
+[2021.08.17-04.17.39:508][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/__MyContent/Levels/Level2_BuiltData" FILE="../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2_BuiltData.uasset" SILENT=true
+[2021.08.17-04.17.39:522][556]LogSavePackage: Moving '../../../../UE4/DungeonCrawler/Saved/Level2_BuiltDataF6C5AA0847C69A5985AE29BCB6F76D07.tmp' to '../../../../UE4/DungeonCrawler/Content/__MyContent/Levels/Level2_BuiltData.uasset'
+[2021.08.17-04.17.39:531][556]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.17-04.17.39:531][556]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/__MyContent/Levels/Level2_BuiltData.Level2_BuiltData
+[2021.08.17-04.17.39:531][556]LogContentValidation: Display: Validating World /Game/__MyContent/Levels/Level2.Level2
